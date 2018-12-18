@@ -10,5 +10,5 @@ Power-ups: There are three kinds. Pink = Shotgun, Velvet Red = Rapid fire, Beige
 
 Play bullets can deflect enemy bullets
 
-
+Download the jar file in the jar folder as well as the resource folder to play.
 
